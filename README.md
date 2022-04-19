@@ -17,7 +17,7 @@ Dalam project kali ini hanya menggunakan satu bahasa pemrograman saja, yaitu PHP
 Adapun cara mengeksekusi kode program dalam Repository ini adalah sebagai berikut.
 
 1. Download dan install [XAMPP](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.1.32/)
-2. Masukan folder _Task_ ke dalam folder _htdocs_ didalam direktori **_XAMPP_**
+2. Masukan folder _TP2DPBO2022_ ke dalam folder _htdocs_ didalam direktori **_XAMPP_**
 3. Aktifkan web server **_Apache_** dan database **_MySQL_** pada **_XAMPP_**
 4. Masukan alamat berikut pada browser:
    > localhost/phpmyadmin
@@ -25,7 +25,7 @@ Adapun cara mengeksekusi kode program dalam Repository ini adalah sebagai beriku
 6. Kemudian klik pada database yang sudah dibuat dan klik _import_
 7. Pilih file _db_ormawa.sql_ kemudian klik go
 8. Setelah itu masukan alamat berikut pada browser:
-   > localhost/(DIR)/index.php
+   > localhost/TP2DPBO2022
 
 ### Hasil dari Kode Program Setelah Dijalankan
 
