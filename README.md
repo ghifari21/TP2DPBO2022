@@ -21,11 +21,11 @@ Adapun cara mengeksekusi kode program dalam Repository ini adalah sebagai beriku
 3. Aktifkan web server **_Apache_** dan database **_MySQL_** pada **_XAMPP_**
 4. Masukan alamat berikut pada browser:
    > localhost/phpmyadmin
-5. Buat database baru dan beri nama _db_task_
+5. Buat database baru dan beri nama _db_ormawa_
 6. Kemudian klik pada database yang sudah dibuat dan klik _import_
-7. Pilih file _db_task.sql_ kemudian klik go
+7. Pilih file _db_ormawa.sql_ kemudian klik go
 8. Setelah itu masukan alamat berikut pada browser:
-   > localhost/task
+   > localhost/(DIR)/index.php
 
 ### Hasil dari Kode Program Setelah Dijalankan
 
